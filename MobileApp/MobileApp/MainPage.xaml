@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApp.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <Frame>
+                <StackLayout>
+                    <Label>Тигр</Label>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="tiger.jpg" HeightRequest="100"></Image>
+                        </StackLayout>
+                        <StackLayout>
+                            <Label>Тигры относятся к категории хищных млекопитающих, представляющих весьма многочисленное семейство «кошачьи», являясь при этом типичным представителем рода «Пантеры» из подсемейства «Большие кошки». 
+                        Слово «тигр», в переводе с греческого языка означает «Острый и быстрый».</Label>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <Frame>
+                <StackLayout>
+                    <Label>Тигр</Label>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="tiger.jpg" HeightRequest="100"></Image>
+                        </StackLayout>
+                        <StackLayout>
+                            <Label>Тигры относятся к категории хищных млекопитающих, представляющих весьма многочисленное семейство «кошачьи», являясь при этом типичным представителем рода «Пантеры» из подсемейства «Большие кошки». 
+                        Слово «тигр», в переводе с греческого языка означает «Острый и быстрый».</Label>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <Frame>
+                <StackLayout>
+                    <Label>Тигр</Label>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="tiger.jpg" HeightRequest="100"></Image>
+                        </StackLayout>
+                        <StackLayout>
+                            <Label>Тигры относятся к категории хищных млекопитающих, представляющих весьма многочисленное семейство «кошачьи», являясь при этом типичным представителем рода «Пантеры» из подсемейства «Большие кошки». 
+                        Слово «тигр», в переводе с греческого языка означает «Острый и быстрый».</Label>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <Frame>
+                <StackLayout>
+                    <Label>Тигр</Label>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="tiger.jpg" HeightRequest="100"></Image>
+                        </StackLayout>
+                        <StackLayout>
+                            <Label>Тигры относятся к категории хищных млекопитающих, представляющих весьма многочисленное семейство «кошачьи», являясь при этом типичным представителем рода «Пантеры» из подсемейства «Большие кошки». 
+                        Слово «тигр», в переводе с греческого языка означает «Острый и быстрый».</Label>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <Frame>
+                <StackLayout>
+                    <Label>Тигр</Label>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="tiger.jpg" HeightRequest="100"></Image>
+                        </StackLayout>
+                        <StackLayout>
+                            <Label>Тигры относятся к категории хищных млекопитающих, представляющих весьма многочисленное семейство «кошачьи», являясь при этом типичным представителем рода «Пантеры» из подсемейства «Большие кошки». 
+                        Слово «тигр», в переводе с греческого языка означает «Острый и быстрый».</Label>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <Frame>
+                <StackLayout>
+                    <Label>Тигр</Label>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="tiger.jpg" HeightRequest="100"></Image>
+                        </StackLayout>
+                        <StackLayout>
+                            <Label>Тигры относятся к категории хищных млекопитающих, представляющих весьма многочисленное семейство «кошачьи», являясь при этом типичным представителем рода «Пантеры» из подсемейства «Большие кошки». 
+                        Слово «тигр», в переводе с греческого языка означает «Острый и быстрый».</Label>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <Frame>
+                <StackLayout>
+                    <Label>Тигр</Label>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <BoxView Color="Black" HeightRequest="5"></BoxView>
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout>
+                            <Image Source="tiger.jpg" HeightRequest="100"></Image>
+                        </StackLayout>
+                        <StackLayout>
+                            <Label>Тигры относятся к категории хищных млекопитающих, представляющих весьма многочисленное семейство «кошачьи», являясь при этом типичным представителем рода «Пантеры» из подсемейства «Большие кошки». 
+                        Слово «тигр», в переводе с греческого языка означает «Острый и быстрый».</Label>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
